@@ -3,3 +3,7 @@
 <p align="center">
     <img src="./images/arvore-decisao.png" alt="Árvore de decisão" width="700"/>
 </p>
+
+### Alunos
+- Francisco Alexandro
+- Gabriel da Silva Leal
