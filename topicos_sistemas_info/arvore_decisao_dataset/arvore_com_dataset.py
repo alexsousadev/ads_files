@@ -81,7 +81,7 @@ create_decision_tree(
     max_tree_depth=3,
 )
 
-# Utilizando base de dados de câncer de mama com 100 amostras aleatórias
+# Utilizando base de dados de câncer de mama com 200 amostras aleatórias
 create_decision_tree(
     dataset_id=17,
     dataset_name="Câncer de Mama",
