@@ -1,7 +1,7 @@
 # Árvore de Decisão utilizando bases da UCI
 
 ## Sobre o Projeto
-Implementação de um classificador baseado em Árvore de Decisão utilizando o algoritmo ID3 com cálculo de entropia para classificação de bolas coloridas.
+Implementação de um classificador baseado em Árvore de Decisão utilizando o algoritmo ID3 com cálculo de entropia para classificação de datasets da UCI.
 
 ## Datasets Utilizados
 O projeto utiliza os seguintes datasets:
