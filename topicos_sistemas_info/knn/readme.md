@@ -7,3 +7,10 @@
     > O código feito com a base de dados Wine está [aqui](./knn_wine.py)
 3. Compare o KNN com outros algoritmos supervisionados.
     > Nesta etapa, comparei o KNN com outros 2 algoritmos de classificação supervisionada utilizando o conjunto de dados Wine: Árvore de Decisão e Naive Bayes. No experimento realizado com o dataset, o algoritmo KNN apresentou a maior acurácia entre os três testados, superando tanto a Árvore de Decisão quanto o Naive Bayes. Isso indica que, nesse conjunto de dados específico, o KNN conseguiu classificar melhor os exemplos do conjunto de teste. Uma possível explicação para isso é que o dataset Wine possui atributos contínuos e bem comportados após a normalização, o que favorece algoritmos baseados em distância, como o KNN
+
+
+
+---
+Alunos: 
+- Francisco Alexandro
+- Gabriel da Silva Leal
